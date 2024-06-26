@@ -1,4 +1,4 @@
-#ejercicio tipo prueba libro
+#ejercicio tipo prueba libreria
 import os, json, time
 from Funciones_B import *
 while True:
